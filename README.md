@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shivani 
 
-<!--
-**Shivani-Gawade/Shivani-Gawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- B.E Student (AI & DS)  
+- Aspiring Full Stack Developer  
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- Java, C Programming
+- MySQL, MongoDB
+- Git & GitHub
+- JDBC, jsp, servlet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Weather App (REST API Project)
+- To-Do List (Java Servlet Project)
+  
+## Currently Learning
+- Angular
+
+## Goal
+To secure a Full Stack Developer role and build scalable web applications.
