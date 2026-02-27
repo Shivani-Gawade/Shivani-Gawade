@@ -8,7 +8,7 @@
 - Java, C Programming
 - MySQL, MongoDB
 - Git & GitHub
-- JDBC, jsp, servlet
+- JDBC, Jsp, Servlet
 
 ## Projects
 - Weather App (REST API Project)
