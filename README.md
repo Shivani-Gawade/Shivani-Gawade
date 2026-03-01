@@ -6,7 +6,7 @@
 ## Skills
 - HTML, CSS, JavaScript
 - Java, C Programming
-- MySQL, MongoDB
+- Oracle Database, MongoDB
 - Git & GitHub
 - JDBC, Jsp, Servlet
 
