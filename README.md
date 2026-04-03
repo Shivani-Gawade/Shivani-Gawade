@@ -14,8 +14,5 @@
 - Weather App (REST API Project)
 - To-Do List (Java Servlet Project)
   
-## Currently Learning
-- Angular
-
 ## Goal
 To secure a Full Stack Developer role and build scalable web applications.
