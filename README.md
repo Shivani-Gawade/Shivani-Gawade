@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I'm Shivani (Vanshika)
+# Hi, I'm Shivani
 
  B.E Student (AI & Data Science)  
  Aspiring Full Stack Developer  
