@@ -12,7 +12,7 @@ I enjoy solving real-world problems and continuously improving my backend and fr
 ##  Skills
 
 ### 🔹 Frontend
-HTML | CSS | Bootstrap | JavaScript | React.js (Basics)
+HTML | CSS | Bootstrap | JavaScript | React.js 
 
 ### 🔹 Backend
 Java | Spring Boot | JDBC | Servlets | REST APIs | Hibernate (JPA)
